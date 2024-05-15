@@ -202,4 +202,4 @@ int main()
 ![324702861-f55991e7-243f-4b61-a18d-aa812270ea7e](https://github.com/elamarannn/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/113497531/ce936c03-28e2-422c-8a1a-8290b9ed1412)
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took ______________time and host took ___________time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec.
